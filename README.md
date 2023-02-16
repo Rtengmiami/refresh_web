@@ -1,4 +1,4 @@
-# Python Automated Web Page Refresh Program 
+# Python Automated Web Page Refresh Program   (Dynamic Web Scraping)
 This Python file is designed for automatically refreshing web pages and can be used in various scenarios such as internet purchasing, ticketing, course refreshing, and other tasks that require high frequency web page refreshes. With this program, you can easily achieve your goals of continuously monitoring web pages to ensure that you don't miss any important information
 
 ## How to Use
@@ -10,7 +10,7 @@ Currently, this program is used as an example for the course search website of t
 When using this program, please make sure that your behavior conforms to relevant regulations and does not cause excessive burden or interference to the target website's normal operation.   
 **Ps. The version of selenium here is 4.8.0.**  
 If you encounter any problems or have any suggestions for improvement while using this program, please feel free to contact the author of this program: Auston.
-# Python 自動刷新網頁程式
+# Python 自動刷新網頁程式(動態爬蟲)
 這個 Python 檔案是為了自動刷新網頁而設計的，可以應用於多種情境，例如網路搶購、搶票、刷新課程等需要高頻率刷新網站的動作。透過這個程式，你可以輕鬆地達成需要持續監看網站的目標，以確保不會錯過任何重要的訊息。
 ## 如何使用
 此程式的使用方式非常簡單，只需要先確認已經安裝好 Python 環境後，開啟此程式並按照使用者提示依序輸入需要刷新的網頁 URL，設定自動刷新的時間間隔，程式即可開始運作。
